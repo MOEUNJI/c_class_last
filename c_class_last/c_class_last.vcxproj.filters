@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\day1">
+      <UniqueIdentifier>{168e811f-e8e5-4d56-a516-b331d8e1a1f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day2">
+      <UniqueIdentifier>{bb9526a1-624a-446e-bbc1-53536817917a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="day1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="day2.c">
+      <Filter>소스 파일\day2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
