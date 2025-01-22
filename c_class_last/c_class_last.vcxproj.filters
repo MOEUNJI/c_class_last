@@ -19,6 +19,36 @@
     <Filter Include="소스 파일\day2">
       <UniqueIdentifier>{0990469f-e17b-4aa9-9049-e66ef408923c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day3">
+      <UniqueIdentifier>{d63f0849-f738-4c41-9796-a9600a1c23c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day4">
+      <UniqueIdentifier>{d8b44eac-8c8a-42ce-ac7a-ede528f35e7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day5">
+      <UniqueIdentifier>{4dcbd937-dc73-448c-b09d-8b14274abbc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day6">
+      <UniqueIdentifier>{ba38a355-6920-4161-a704-e1ea778652f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day7">
+      <UniqueIdentifier>{ea851df2-ca2f-4d5b-965e-42a811b96ade}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day8">
+      <UniqueIdentifier>{2657db36-aa65-4fdb-ace4-aed180ed0e77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day9">
+      <UniqueIdentifier>{1ea06953-d621-4f02-9ae2-066851e7c21a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day10">
+      <UniqueIdentifier>{47fc14e8-61db-4958-8924-0d3b0a7d0a89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day11">
+      <UniqueIdentifier>{0338b2ee-c439-4a93-87e2-255b96166e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day12">
+      <UniqueIdentifier>{d3c75201-6ed7-4881-9d61-aba6b6d31cc6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="day1.c">
@@ -35,6 +65,105 @@
     </ClCompile>
     <ClCompile Include="변수의출력.c">
       <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="변수곱하기.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="자료형.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="자료형의형변환.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="문제.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="언사인드.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="형식문자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="산술연산자.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="비트단위연산자.c">
+      <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="짱구기말고사평균.c">
+      <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항조건연산자문제.c">
+      <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="시프트연산자.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="if문.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.c">
+      <Filter>소스 파일\day8</Filter>
+    </ClCompile>
+    <ClCompile Include="배송비중첩if문.c">
+      <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="while.c">
+      <Filter>소스 파일\day8</Filter>
+    </ClCompile>
+    <ClCompile Include="dowhile.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="for.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="break.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩for문.c">
+      <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="난수발생.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원배열.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열변수.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터와배열.c">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터문제1.c">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터배열.c">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터배열문제.c">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원배열.c">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원배열구구단.c">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="배열포인터.c">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열과포인터.c">
+      <Filter>소스 파일\day12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
